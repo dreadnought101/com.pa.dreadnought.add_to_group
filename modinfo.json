@@ -34,7 +34,9 @@
 		"modifier",
         "ui",
         "dreadnought",
-		"dreadnaught"
+        "dreadnaught",
+        "Ferretmaster",
+        "Ferret"
     ],
     "sort": "Add To Group",
     "authors": [
