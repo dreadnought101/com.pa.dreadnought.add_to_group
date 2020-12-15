@@ -2,12 +2,15 @@
     "author": "Dreadnought",
     "build": "114980",
     "context": "client",
-    "date": "2020-10-15",
+    "date": "2020-12-12",
     "description": "Adds keybinds that adds units to preexisting groups rather than replace groups.",
     "display_name": "Add To Group",
     "forum": "",
     "identifier": "com.dreadnought.pa.add-to-group",
     "priority": 100,
+    "signature": "vhat vhes vhis?",
+    "version": "1.0-dev",
+    "url": " ",
     "scenes": {
         "global_mod_list": [
             "coui://ui/mods/group_units_add/keybinds.js"
@@ -16,10 +19,6 @@
             "coui://ui/mods/group_units_add/live_game.js"
         ]
     },
-    "signature": "vhat vhes vhis?",
-    "version": "dev",
-    "url": " ",
-    "download": " ",
     "unitList": false,
     "fileSystem": false,
     "searchable": [
@@ -39,9 +38,10 @@
     ],
     "sort": "Add To Group",
     "authors": [
-        "Dreadnought"
+        "Dreadnought",
+        "Ferretmaster"
     ],
-    "icon": "",
+    "icon": "https://i.imgur.com/YoVPmAZ.png",
     "dependencies": [],
     "companions": [],
     "framework": false,
